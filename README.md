@@ -2,6 +2,9 @@
 
 ManyMinds is an inclusive, evidence‑informed assistant that helps people understand neurodiversity, support neurodivergent individuals, and lead inclusively at work. It is designed to model neuroinclusive behavior by default.
 
+<img width="570" height="360" alt="image" src="https://github.com/user-attachments/assets/72a52dda-b7a2-444b-8d9d-a49f0250387e" />
+
+
 ## Inclusive by Design - ManyMinds intentionally
 - Keeps responses structured and calm
 - Reduces cognitive overload
