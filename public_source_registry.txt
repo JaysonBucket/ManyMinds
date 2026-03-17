@@ -1,0 +1,233 @@
+PUBLIC_SOURCE_REGISTRY
+Purpose: Stable reference registry for ManyMinds public sources (P-*).
+Usage:
+- Source IDs (P-*) are the canonical references for public sources.
+- URLs are resolved via this registry.
+- Prefer Source IDs in SHORT citations; resolve via Source Map when requested.
+Governance:
+- Public sources must be freely accessible.
+- Do not change existing IDs. Add new entries only.
+
+[P-ACAS-ND]
+Title: Acas – Neurodiversity at work
+Type: Workplace guidance (UK)
+Scope: neurodiversity terminology, inclusion, reasonable adjustments, management guidance
+Audience: Managers, HR, employees
+Link: https://www.acas.org.uk/neurodiversity-at-work
+
+[P-ACAS-ADJ]
+Title: Acas – Reasonable adjustments at work
+Type: Workplace guidance (UK)
+Scope: what reasonable adjustments are, when/why employers must consider them
+Audience: Managers, HR, employees
+Link: https://www.acas.org.uk/reasonable-adjustments
+
+[P-NAS-WORK]
+Title: National Autistic Society – What support can I get at work?
+Type: Charity guidance (UK)
+Scope: reasonable adjustments, Access to Work overview, practical workplace support
+Audience: Autistic people, employers
+Link: https://www.autism.org.uk/advice-and-guidance/employment/what-support-can-i-get-at-work
+
+[P-GOVUK-REASONABLE-ADJ]
+Title: GOV.UK – Reasonable adjustments for disabled workers
+Type: Government guidance (UK)
+Scope: employer duty, examples of adjustments, links to support and Access to Work
+Audience: Employers
+Link: https://www.gov.uk/reasonable-adjustments-for-disabled-workers
+
+[P-GOVUK-EQACT-RA-PDF]
+Title: Equality Act 2010 – Duty on employers to make reasonable adjustments (PDF)
+Type: Government guidance (UK, PDF)
+Scope: legal duty explanation, when it applies, recruitment and workplace examples
+Audience: Employers
+Link: https://assets.publishing.service.gov.uk/media/5a7b346d40f0b66a2fc05dc5/Equality_Act_2010_-_Duty_on_employers_to_make_reasonable_adjustments_for....pdf
+
+[P-HSE-ADJ]
+Title: HSE – Employers’ duties: Making reasonable adjustments
+Type: UK regulator guidance
+Scope: practical examples and H&S perspective for adjustments
+Audience: Employers
+Link: https://www.hse.gov.uk/disability/employers-duties/adjustments.htm
+
+[P-JAN-AZ]
+Title: Job Accommodation Network (JAN) – A to Z of Disabilities and Accommodations
+Type: Government-funded expert resource (US)
+Scope: accommodation ideas by condition/limitation/work function; starting point for accommodation process
+Audience: Employers, employees
+Link: https://askjan.org/a-to-z.cfm
+
+[P-WESTERN-TOOLKIT]
+Title: Western University – Neurodiversity in the Workplace Toolkit (PDF)
+Type: University toolkit (PDF)
+Scope: overview of neurodiversity and workplace supports; practical tips
+Audience: Employers, leaders, colleagues
+Link: https://www.uwo.ca/hr/form_doc/health_safety/doc/wellness/health_mind/neurodiversity.pdf
+
+[P-LSE-LEADERSHIP]
+Title: Leadership and Neurodiversity at Work (PDF)
+Type: Research summary (PDF)
+Scope: leadership practices, mixed-neurotype interactions (double empathy), qualitative insights
+Audience: Leaders, researchers
+Link: https://positiveleadership.louisville.edu/wp-content/uploads/2026/02/2026.01.26-Leadership-and-Neurodiversity-at-Work.pdf
+
+[P-UNICEF-MGR]
+Title: UNICEF – A Manager’s Guide to Nurturing Neurodivergent Talent (PDF)
+Type: Organizational guide (PDF)
+Scope: practical manager guidance, glossary, workplace support approaches
+Audience: Managers
+Link: https://www.unicef.org/careers/media/3116/file/UNICEF%20Manager's%20Guide%20-%20Neurodivergent%20Talent%20-%20June%202025.pdf.pdf
+
+[P-OMH-WORK]
+Title: NY State OMH – Neurodivergence in the Workplace: Strategies for Leaders and Supervisors (PDF)
+Type: Public-sector guidance (PDF)
+Scope: leader/supervisor strategies, strengths & challenges framing
+Audience: Managers
+Link: https://www.traumainformedny.org/wp-content/uploads/Neurodivergence-Workplace.pdf
+
+[P-AS-TIPS]
+Title: Autism Society – Tips & Tricks in the Workplace (PDF)
+Type: Advocacy tip sheet (PDF)
+Scope: workplace supports and accommodation ideas
+Audience: Employers, ERGs, employees
+Link: https://autismsociety.org/wp-content/uploads/2023/01/ASA-Tips-Tricks-in-the-Workplace.pdf
+
+[P-CIPD-ND-WORK]
+Title: CIPD – Neurodiversity at work (PDF)
+Type: Professional HR body guide (PDF)
+Scope: neurodiversity at work, people management, inclusive practices
+Audience: HR, leaders
+Link: https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/guides/neurodiversity-at-work_2018_tcm18-37852.pdf
+
+[P-JOBACCESS-AU]
+Title: JobAccess – How to support a neurodivergent workforce (PDF)
+Type: Government resource (Australia, PDF)
+Scope: hiring, onboarding, adjustments, retention, practical tools
+Audience: Employers, HR, leaders
+Link: https://jobaccess.gov.au/sites/default/files/documents/2025-07/7911-how-support-neurodivergent.pdf
+
+[P-NICE-ADHD]
+Title: NICE – ADHD: diagnosis and management (NG87) (PDF)
+Type: Clinical guideline (UK, PDF)
+Scope: recognition, diagnosis, support, management across lifespan including adults
+Audience: Clinicians, public
+Link: https://www.nice.org.uk/guidance/ng87/resources/attention-deficit-hyperactivity-disorderdiagnosis-and-management-pdf-1837699732933
+
+[P-NICE-AUTISM-ADULTS]
+Title: NICE – Autism spectrum disorder in adults: diagnosis and management (CG142) (PDF)
+Type: Clinical guideline (UK, PDF)
+Scope: identification, assessment, interventions, service organisation for adults
+Audience: Clinicians, public
+Link: https://www.nice.org.uk/guidance/cg142/resources/autism-spectrum-disorder-in-adults-diagnosis-and-management-pdf-35109567475909
+
+[P-WHO-ICD11-CDDR]
+Title: WHO – ICD-11 Clinical Descriptions and Diagnostic Requirements (CDDR) publication page
+Type: Global classification / diagnostic guidance
+Scope: official diagnostic descriptions for mental, behavioural and neurodevelopmental disorders
+Audience: Clinicians, researchers
+Link: https://www.who.int/publications/i/item/9789240077263
+
+[P-WHO-AUTISM]
+Title: WHO – Autism (fact sheet)
+Type: Public health fact sheet
+Scope: overview, prevalence estimate, impacts, interventions and inclusion considerations
+Audience: Public, policymakers
+Link: https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders
+
+[P-CDC-ADHD-ADULTS]
+Title: CDC – ADHD in Adults: An Overview
+Type: Public health overview
+Scope: adult ADHD overview, symptoms, diagnosis and treatment info
+Audience: Public
+Link: https://www.cdc.gov/adhd/articles/adhd-across-the-lifetime.html
+
+[P-CDC-AUTISM-ABOUT]
+Title: CDC – About Autism Spectrum Disorder
+Type: Public health overview
+Scope: ASD overview, signs/symptoms, lifespan considerations
+Audience: Public
+Link: https://www.cdc.gov/autism/about/index.html
+
+[P-NIMH-ADHD-ADULTS-PDF]
+Title: NIMH – ADHD in Adults: 4 Things to Know (PDF)
+Type: Public health brochure (PDF)
+Scope: adult ADHD basics, symptoms, diagnosis, treatment pointers
+Audience: Public
+Link: https://www.nimh.nih.gov/sites/default/files/documents/health/publications/adhd-in-adults-four-things-to-know.pdf
+
+[P-NIMH-AUTISM]
+Title: NIMH – Autism Spectrum Disorder (brochure page)
+Type: Public health overview
+Scope: ASD basics, signs, supports; links to additional resources
+Audience: Public
+Link: https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder
+
+[P-HARVARD-ND]
+Title: Harvard Health – What is neurodiversity?
+Type: Medical explainer article
+Scope: definition and framing of neurodiversity; language considerations
+Audience: Public
+Link: https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645
+
+[P-CDC-ADHD-FACTS]
+Title: CDC – Facts About ADHD in Adults
+Type: Public health overview
+Scope: Adult ADHD facts, diagnosis/treatment patterns, trends
+Audience: Public, policymakers
+Link: https://www.cdc.gov/adhd/php/adults/index.html
+
+[P-WHO-AUTISM]
+Title: WHO – Autism (fact sheet)
+Type: Public health fact sheet
+Scope: ASD overview, prevalence estimate, inclusion/support considerations
+Audience: Public, policymakers
+Link: https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders
+
+[P-NIMH-ADHD-WYNTK-PDF]
+Title: NIMH – Attention-Deficit/Hyperactivity Disorder: What You Need to Know (PDF)
+Type: Public health brochure (PDF)
+Scope: ADHD basics across ages, symptoms, diagnosis, treatment overview
+Audience: Public
+Link: https://www.nimh.nih.gov/sites/default/files/documents/health/publications/adhd-2024.pdf
+
+[P-CDC-AUTISM-INDEX]
+Title: CDC – Autism Spectrum Disorder (ASD) main page
+Type: Public health hub
+Scope: ASD overview plus links to signs/symptoms, screening, resources, data
+Audience: Public
+Link: https://www.cdc.gov/autism/index.html
+
+[P-JAN-HOME]
+Title: Job Accommodation Network (JAN) – Home
+Type: Government-funded expert resource (US)
+Scope: accommodation process guidance and resources
+Audience: Employers, employees
+Link: https://askjan.org/
+
+[P-JAN-INFO-BY-ROLE]
+Title: JAN – Information by Role
+Type: Government-funded expert resource (US)
+Scope: accommodation guidance tailored for employers/individuals
+Audience: Employers, employees
+Link: https://askjan.org/info-by-role.cfm
+
+[P-ACAS-REASONABLE-ADJ]
+Title: Acas – Reasonable adjustments at work
+Type: Workplace guidance (UK)
+Scope: definition, when duty applies, practical examples
+Audience: Employers, HR, employees
+Link: https://www.acas.org.uk/reasonable-adjustments
+
+[P-CIPD-ND-WORK-PDF]
+Title: CIPD – Neurodiversity at work (PDF)
+Type: Professional HR body guide (PDF)
+Scope: people management, inclusive practices, business case
+Audience: HR, leaders
+Link: https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/guides/neurodiversity-at-work_2018_tcm18-37852.pdf
+
+[P-JOBACCESS-AU-PDF]
+Title: JobAccess – How to support a neurodivergent workforce (PDF)
+Type: Government resource (Australia, PDF)
+Scope: attract/hire/retain, onboarding, adjustments, retention, practical tools
+Audience: Employers, HR
+Link: https://jobaccess.gov.au/sites/default/files/documents/2025-07/7911-how-support-neurodivergent.pdf
