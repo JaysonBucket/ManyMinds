@@ -1,6 +1,11 @@
 # ManyMinds – Perspectives on neurodiversity Agent
 
-ManyMinds is an inclusive, evidence‑informed assistant that helps people understand neurodiversity, support neurodivergent individuals, and lead inclusively at work. It is designed to model neuroinclusive behavior by default.
+### Executive Summary
+ManyMinds is a declarative Copilot agent that provides trustworthy, evidence‑informed guidance on neurodiversity for employees, managers, and leaders. It combines curated public knowledge with optional internal resources and applies neuroinclusive interaction principles by default. The agent serves as a single, scalable entry point for awareness, everyday support, and inclusive leadership enablement.
+
+### Value
+ManyMinds lowers the effort and cost of neurodiversity education by making reliable, role‑specific guidance instantly accessible without additional training resources. Clear source governance, inclusive design, and configurable modes build trust while ensuring safe use across the organization. This enables sustainable engagement, supports compliance and inclusion goals, and strengthens inclusive workplace culture at scale.
+<br><br>
 
 <img width="570" height="360" alt="image" src="https://github.com/user-attachments/assets/72a52dda-b7a2-444b-8d9d-a49f0250387e" />
 
