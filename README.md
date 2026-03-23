@@ -1,6 +1,6 @@
 # ManyMinds – Perspectives on neurodiversity Agent
 
-latest changes: 23.03.2026 - reworked link presentation & stabilized clickability
+latest changes: 23.03.2026 - reworked link presentation & stabilized clickability; added sources for agent setup without knowledge source upload
 
 ### Executive Summary
 ManyMinds is a declarative Copilot agent that provides trustworthy, evidence‑informed guidance on neurodiversity for employees, managers, and leaders. It combines curated public knowledge with optional internal resources and applies neuroinclusive interaction principles by default. The agent serves as a single, scalable entry point for awareness, everyday support, and inclusive leadership enablement.
