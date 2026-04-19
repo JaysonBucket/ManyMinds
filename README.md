@@ -1,5 +1,8 @@
 # ManyMinds – Perspectives on neurodiversity Agent
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
 latest changes: 23.03.2026 - reworked link presentation & stabilized clickability; added sources for agent setup without knowledge source upload
 
 ### Executive Summary
