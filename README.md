@@ -3,7 +3,7 @@
 This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
 https://www.jaysons.dev
 
-Also have a look on the dedicated Repo containing hints and best practises on
+Also have a look on the **dedicated Repo** containing hints and best practises on
 [best practises and tips how AI supports Neurodivergents (and anyone else)](https://github.com/JaysonBucket/NeurodiversityCorner)
 
 latest changes: 23.03.2026 - reworked link presentation & stabilized clickability; added sources for agent setup without knowledge source upload
